@@ -478,7 +478,8 @@ footer {
   }
 
   header {
-    padding-right:400px;
+    padding-right:0;
+    margin-left:0;
   }
 
   section {
@@ -526,6 +527,7 @@ footer {
 
   header {
     padding:0;
+    margin-left:0;
   }
 
   header ul, header p.view {
