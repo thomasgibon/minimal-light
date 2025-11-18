@@ -6,7 +6,7 @@ email: thomas.gibon (at) list.lu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: life cycle assessment circular economy industrial ecology sustainability data science data visualisation energy climate electricity
+keywords: thomas gibon life cycle assessment circular economy industrial ecology sustainability data science data visualisation energy climate electricity
 description: I am a researcher working on quantitative sustainability assessment of products and systems, and on improving science-based decision-making.
 canonical: https://thomasgibon.github.io/
 
@@ -21,7 +21,7 @@ orcid: https://orcid.org/0000-0002-2778-8825
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/avatar_tg.png
 favicon: ./assets/img/favicon_tg.png
 favicon_dark: ./assets/img/favicon_tg_dark.png
 
