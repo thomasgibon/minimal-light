@@ -283,9 +283,10 @@ img {
 }
 
 header {
-  width:232px;
+  width:350px;
   float:left;
   position:fixed;
+  margin-left:-100px;
   -webkit-font-smoothing:subpixel-antialiased;
   padding-top:4.0em;
   text-align:center
@@ -398,7 +399,7 @@ footer {
   }
 
   header {
-    padding-right:320px;
+    padding-right:400px;
   }
 
   section {
